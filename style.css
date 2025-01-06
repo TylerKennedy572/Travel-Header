@@ -83,16 +83,17 @@ nav ul li a {
     margin-top: 20px;
 }
 
-.content form input{
+.content form input {
     border: 0;
-    outline: 0;    
-    width: 300px;
+    outline: 0;
+    width: 250px;
     font-size: 16px;
-    padding-left:10px; 
+    padding-left: 10px;
     margin: 10px;
     height: 50px;
     align-items: center;
     border-radius: 5px;
+    margin-left: -10px;
 }
 
 .content form .btn{
